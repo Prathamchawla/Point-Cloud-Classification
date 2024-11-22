@@ -1,0 +1,5 @@
+tensorflow
+plotly
+pillow
+matplotlib
+trimesh
